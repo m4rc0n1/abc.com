@@ -1,2 +1,3 @@
 gitten yazdim
 githubdan yazdim
+githubdan yeni funksion
